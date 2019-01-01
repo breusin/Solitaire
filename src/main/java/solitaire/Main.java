@@ -2,6 +2,12 @@ package solitaire;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+/**
+ * This is the main entry point.
+ * 
+ * @author brentreusing
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
